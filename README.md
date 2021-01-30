@@ -27,6 +27,8 @@ $ python3 yolo_detection_video.py
 
 ## Video result:
 
+<img src="/video_result.gif" data-canonical-src="" width="800" height="500" />
+
 ## Might Do
 - [ ]
 ----
